@@ -1,5 +1,8 @@
 {
     "tokenImages": {
-        "goblin": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/goblin.png"
+        "goblin": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/goblin.png",
+        "goblin#": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/goblin.png",
+        "gob#": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/goblin.png",
+        "go#": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/goblin.png"
     }
 }
