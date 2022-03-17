@@ -11,10 +11,15 @@
         "redbrand": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/redbrand_ruffian.png",
         "redbrand#": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/redbrand_ruffian.png",
 
-        "skeleton": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/redbrand_ruffian.png",
-        "skeleton#": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/redbrand_ruffian.png",
-        "sk": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/redbrand_ruffian.png",
-        "sk#": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/redbrand_ruffian.png"
+        "skeleton": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/skeleton.png",
+        "skeleton#": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/skeleton.png",
+        "sk": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/skeleton.png",
+        "sk#": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/skeleton.png",
+
+        "nothic": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/nothic.png",
+        "nothic#": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/nothic.png",
+        "no": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/nothic.png",
+        "no#": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/nothic.png"
 
     }
 }
