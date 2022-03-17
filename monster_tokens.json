@@ -24,7 +24,12 @@
         "bugbear": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/bugbear.png",
         "bugbear#": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/bugbear.png",
         "bu": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/bugbear.png",
-        "bu#": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/bugbear.png"
+        "bu#": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/bugbear.png",
+
+        "rat": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/rat.png",
+        "rat#": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/rat.png",
+        "ra": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/rat.png",
+        "ra#": "https://raw.githubusercontent.com/iCaptainNemo/DND-Discord/main/monster_tokens/rat.png"
 
     }
 }
